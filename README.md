@@ -149,7 +149,7 @@ ISC
 
 ## 👤 Autor
 
-Tu nombre o usuario de GitHub
+Christian
 
 ---
 
